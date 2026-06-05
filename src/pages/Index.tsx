@@ -760,10 +760,7 @@ export default function Index() {
         </h1>
 
         <p className="text-white/70 text-sm sm:text-base md:text-sm lg:text-2xl mb-6 sm:mb-8 max-w-2xl text-pretty">
-          Логотипы, фирменный стиль, полиграфия и digital-графика —
-          <br className="hidden sm:block" />
-          <span className="sm:hidden"> </span>
-          создаём визуальные образы, которые запоминаются.
+          Логотипы, фирменный стиль, полиграфия и digital-графика — создаём визуальные образы, которые запоминаются.
         </p>
 
         <Button className="group relative bg-gradient-to-r from-orange-500 to-orange-600 hover:from-orange-600 hover:to-orange-700 text-white px-6 sm:px-8 py-2.5 sm:py-3 rounded-lg text-sm sm:text-base md:text-xs lg:text-lg font-semibold flex items-center gap-2 backdrop-blur-sm border border-orange-400/30 shadow-lg shadow-orange-500/25 hover:shadow-xl hover:shadow-orange-500/40 transition-all duration-300 hover:scale-105 hover:-translate-y-0.5">
